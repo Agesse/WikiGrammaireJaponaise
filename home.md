@@ -1,4 +1,4 @@
-<!-- TITLE: Accueil -->
+![End Img](/uploads/end-img.png "End Img"){.pagelogo}<!-- TITLE: Accueil -->
 <!-- SUBTITLE: Bienvenue chez toi -->
 
 # Grammaire Japonaise
