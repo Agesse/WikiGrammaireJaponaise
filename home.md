@@ -3,4 +3,4 @@
 
 # Grammaire Japonaise
 Courage, un petit peu tous les jours et tout ira bien !!
-[Lapin](/uploads/lapin.png "Lapin"){.align-center}
+![Lapin](/uploads/lapin.png "Lapin"){.align-center}
