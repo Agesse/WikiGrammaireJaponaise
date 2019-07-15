@@ -10,3 +10,12 @@ Peut se traduire litteralement par "en ce qui concerne + *nom*"
 Indique une relation entre deux noms :
 - Adverbe de lieu : nom + の + nom de localisation (*exemple*  いえ **の** まえ *の* はな => les fleurs de devant la maison)
 - Adjectif possessif : nom(personne) + の + nom (*exemple* 私 **の** ねこ => mon chat)
+
+## と
+- Forme une enumeration exhaustive traduite en francais par ET
+
+## が
+Indique le sujet grammatical du verbe.
+
+## に
+- Localisation : adverbe de lieu + に + ある (*exemple* 木のした**に**あかい花が**あります**。=> Sous l'arbre, il y a des fleurs rouges.)
