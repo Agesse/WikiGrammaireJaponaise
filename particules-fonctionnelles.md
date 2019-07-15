@@ -19,3 +19,7 @@ Indique le sujet grammatical du verbe.
 
 ## に
 - Localisation : adverbe de lieu + に + ある (*exemple* 木のした**に**あかい花が**あります**。=> Sous l'arbre, il y a des fleurs rouges.)
+
+## も
+Absorbe les particules [ha], [ga] et [o].
+- Le nom qui precede subit la meme situation, se traduit par "aussi", "meme" ou "non plus" si la phrase est negative
