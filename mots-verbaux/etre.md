@@ -5,6 +5,8 @@
 L'auxiliaire être se traduit en japonais par だ (forme informelle) et です (forme polie).
 Il se rajoute après un **nom** ou un **na-adjectif**.
 
+Exemple : 魚です。=> C'est un poisson.
+
 |          | Informel     | Poli                  | Très poli  |
 |----------|--------------|-----------------------|------------|
 | Présent  | da           | desu                  |            |
