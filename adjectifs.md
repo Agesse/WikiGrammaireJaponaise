@@ -14,6 +14,13 @@ Deux utilisations :
 - epithete, en le placant devant le nom (*exemple* 大きい車です。=> C'est une grande voiture.)
 - attribut, en le placant apres le nom (*exemple*  車は大きいです。=> La voiture est grande.)
 
-## Forme negative
-Lorsqu'il est en forme conclusive, il suffit de changer le -い en －くありません.
+## Conjugaison
+Lorsqu'il est en forme conclusive, on change son -い.
 On omet dans ce cas le verbe puisque l'adjectif conclut la phrase.
+
+|          | Familier   | Poli        |
+|----------|------------|-------------|
+| Présent  | -i         | -i          |
+| Négation | -kunai     | -kuarimasen |
+| Passé    | -katta     |             |
+| Négation | -kunakatta |             |
