@@ -15,8 +15,8 @@ Deux utilisations :
 - attribut, en le placant apres le nom (*exemple*  車は大きいです。=> La voiture est grande.)
 
 ## Conjugaison
-Lorsqu'il est en forme conclusive, on change son -い.
-On omet dans ce cas le verbe puisque l'adjectif conclut la phrase.
+Pour conjuguer l'adjectif, on change son -い.
+On peut omettre dans ce cas le verbe puisque l'adjectif propose une forme conclusive.
 
 |          | Familier   | Poli        |
 |----------|------------|-------------|
