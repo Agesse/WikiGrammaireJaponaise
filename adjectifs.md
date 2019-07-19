@@ -24,3 +24,12 @@ On peut omettre dans ce cas le verbe puisque l'adjectif propose une forme conclu
 | Négation | -kunai     | -kuarimasen |
 | Passé    | -katta     |             |
 | Négation | -kunakatta |             |
+
+## L'exception いい et かっこいい
+Les adjectifs いい (bon, bien, juste) et かっこいい (beau, cool) viennent de la même base いい qui était à l'origine よい.
+|          | Familier     | Poli        |
+|----------|--------------|-------------|
+| Présent  | いい         | いい        |
+| Négation | よくない     |        |
+| Passé    | よかった     |             |
+| Négation | よくなかった |             |
