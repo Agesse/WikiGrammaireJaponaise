@@ -7,9 +7,9 @@ Il se rajoute après un **nom** ou un **na-adjectif**.
 
 Exemple : 魚です。=> C'est un poisson.
 
-|          | Informel     | Poli                  | Très poli  |
-|----------|--------------|-----------------------|------------|
-| Présent  | da           | desu                  |            |
-| Négation | dewa nai     | dewa arimasen         | ja nai     |
-| Passé    | datta        | deshita               |            |
-| Négation | dewa nakatta | dewa arimasen deshita | ja nakatta |
+|          | Familier (amis)          | Poli                  |
+|----------|--------------------------|-----------------------|
+| Présent  | da                       | desu                  |
+| Négation | ja nai (oral)/ dewa nai  | dewa arimasen         |
+| Passé    | datta                    | deshita               |
+| Négation | ja nakatta               | dewa arimasen deshita |
