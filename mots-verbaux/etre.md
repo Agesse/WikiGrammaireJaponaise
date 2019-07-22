@@ -9,7 +9,7 @@ Exemple : 魚です。=> C'est un poisson.
 
 |          | Familier (amis)          | Poli                  |
 |----------|--------------------------|-----------------------|
-| Présent  | da                       | desu                  |
-| Négation | ja nai (oral)/ dewa nai  | dewa arimasen         |
-| Passé    | datta                    | deshita               |
-| Négation | ja nakatta               | dewa arimasen deshita |
+| Présent  | だ                       | です                 |
+| Négation | じゃない (oral)/ ではない  | ではありません         |
+| Passé    | だった                    | deshita               |
+| Négation | じゃなかった               | dewa arimasen deshita |
