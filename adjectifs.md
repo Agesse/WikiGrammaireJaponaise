@@ -20,10 +20,10 @@ On peut omettre dans ce cas le verbe puisque l'adjectif propose une forme conclu
 
 |          | Familier   | Poli        |
 |----------|------------|-------------|
-| Présent  | -i         | -i          |
-| Négation | -kunai     | -kuarimasen |
-| Passé    | -katta     |             |
-| Négation | -kunakatta |             |
+| Présent  | -い         | -い          |
+| Négation | -くない     | -くありません |
+| Passé    | -かった     |             |
+| Négation | -くなかった |             |
 
 ## L'exception いい et かっこいい
 Les adjectifs いい (bon, bien, juste) et かっこいい (beau, cool) viennent de la même base いい qui était à l'origine よい.
