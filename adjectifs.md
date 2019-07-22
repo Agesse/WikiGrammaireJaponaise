@@ -9,6 +9,10 @@ Il en existe deux categories :
 Les na-adjectifs ne peuvent jamais être en forme conclusive. Ils qualifient le mot suivant en rajoutant la terminaison な (d'où leur nom) :
 静か**な**人 => Une personne calme. 
 
+On peut aussi les mettre avant un verbe, dans ce cas on les utilise tels quels :
+この先生はゆうめいです。 => Ce professeur est celebre.
+
+
 Les mots qualificatifs variables finissent toujours en -い et se conjuguent.
 Deux utilisations :
 - epithete, en le placant devant le nom (*exemple* 大きい車です。=> C'est une grande voiture.)
