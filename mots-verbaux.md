@@ -10,7 +10,10 @@ A cela on note deux verbes d'exception :
 - する　=> します (faire)
 - くる　=> きます (venir)
 
-## Forme polie a-temporelle conclusive
+## Forme a-temporelle conclusive
+Cette forme termine la phrase et est donc suivie d'un 「。」.
+Le temps de la phrase n'est pas clair et depend du contexte.
+
 ### Verbes yodan
 Il suffit de prendre le dernier kana (finissant en [u]) et de le transformer en [i], puis on ajoute -ます.
 さく　=> さきます
