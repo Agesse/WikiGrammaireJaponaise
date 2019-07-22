@@ -37,3 +37,10 @@ Pour les verbes *ichidan*, on supprime le dernier kana る, puis on ajoute -な�
 |----------|-----------|----------|
 | Poli     | -ます     | -ません  |
 | Familier | Infinitif | -ない    |
+
+### Exceptions
+|      | Présent (p) | Négation (p) | Présent (f) | Négation (f) |
+|------|-------------|--------------|-------------|--------------|
+| する | します      | しません     | normal      | しない       |
+| くる | きます      | きません     | normal      | こない       |
+| ある | normal      | normal       | normal      | ない         |
