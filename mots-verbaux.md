@@ -21,5 +21,5 @@ On supprime le dernier kana る, puis on ajoute -ます.
 
 |          | Familier  | Poli     |
 |----------|-----------|----------|
-| Présent  | Infinitif | -ます    |
-| Négation | -ない     | -ません |
+| Présent  | Infinitif | [i]-ます    |
+| Négation | [a]-ない     | [i]-ません |
