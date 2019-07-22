@@ -30,6 +30,6 @@ Les adjectifs いい (bon, bien, juste) et かっこいい (beau, cool) viennent
 |          | Familier     | Poli        |
 |----------|--------------|-------------|
 | Présent  | いい         | いい        |
-| Négation | よくない     |        |
+| Négation | よくない     | よくありません       |
 | Passé    | よかった     |             |
 | Négation | よくなかった |             |
