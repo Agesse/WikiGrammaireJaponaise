@@ -18,3 +18,8 @@ Il suffit de prendre le dernier kana (finissant en [u]) et de le transformer en 
 ### Verbes ichidan
 On supprime le dernier kana る, puis on ajoute -ます.
 いる　=> います
+
+|          | Familier  | Poli     |
+|----------|-----------|----------|
+| Présent  | Infinitif | -ます    |
+| Négation | -ない     | --ません |
