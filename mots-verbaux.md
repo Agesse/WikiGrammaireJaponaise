@@ -61,6 +61,11 @@ La forme familiere présente est le verbe a l'infinitif. Seule la négation se c
 
 ## Forme passee conclusive
 
+### Forme polie
+Pour tous les verbes : stem + [-ましたou -ませんでした] (négation).
+いる → いました
+さく → さきました
+
 ### Forme familiere
 La forme familiere varie selon le groupe du verbe et son kana terminal. 
 La forme negative est cependant commune a tous.
@@ -75,6 +80,12 @@ La forme negative est cependant commune a tous.
 | く / ぐ    	| いた / いだ 	|
 | む, ぶ, ぬ 	| んだ        	|
 | る, う, つ 	| った        	|
+
+### Résumé et exceptions
+|         	| Passé (p)       	| Négation (p)          	| Passé (f) 	| Négation (f)                        	|
+|---------	|-----------------	|-----------------------	|-----------	|-------------------------------------	|
+| ichidan 	| る → ました     	| る → ませんでした     	| る → た   	| る → なかった                       	|
+| yodan   	| [u] → [i]ました 	| [u] → [i]ませんでした 	| [u] → [?] 	| [u] → [a]なかった / う → わなかった 	|
 
 |      	| Passe  	|
 |------	|--------	|
