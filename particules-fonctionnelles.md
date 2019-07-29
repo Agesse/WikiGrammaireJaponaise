@@ -12,8 +12,16 @@ Indique une relation entre deux noms :
 - Adverbe de lieu : nom + の + nom de localisation (*exemple*  いえ **の** まえ *の* はな => les fleurs de devant la maison)
 - Adjectif possessif : nom(personne) + の + nom (*exemple* 私 **の** ねこ => mon chat)
 
-## と
+## Enumerations
+### と
 - Forme une enumeration exhaustive traduite en francais par ET
+- Realisation d'une action avec quelqu'un, ensembles 
+先生と会った。 => J'ai rencontré mon professeur.
+
+### や et とか
+Forment une enumeration non-exhaustive (et, ou mais avec des "...", "etc...").
+とか est une version plus familiere que や mais s'utilise de la meme maniere.
+靴やシャツを買う。=> Acheter des chaussures, des chemises, ... (entre autres)
 
 ## が
 Indique le sujet grammatical du verbe.
