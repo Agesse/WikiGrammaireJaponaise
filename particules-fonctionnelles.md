@@ -20,7 +20,7 @@ Indique le sujet grammatical du verbe.
 
 ## に
 Indique une cible pour le verbe.
-Contrairement au COD ou on fait quelque chose *a* l'objet, ici on fait quelque chose *vers* le mot associe.
+Contrairement au COD ou on fait quelque chose *a* l'objet, ici on fait quelque chose *vers* le mot associe, l'objectif.
 
 Il possede differentes utilisations :
 - *Localisation statique* :  pour situer quelque chose avec un verbe statique (etre, habiter, travailler dans, ...)
@@ -28,6 +28,14 @@ Il possede differentes utilisations :
 - *Mouvement vers un endroit* : 部屋にくる => Aller dans une piece.
 - *Contact direct* : l'action est dirigee vers un endroit ou un objet (Accrocher un manteau **sur** le cintre)
 - *Moment precis* : année, mois, jour, heure precise (à, le, ...) (10 時に寝ます。=> Je me couche a 10h.)
+
+## へ
+**Attention** Se prononce [e].
+Contrairement a に ou on va vers un objectif precis, ici on traverse, on passe dans quelque chose de flou qui n'est pas le but final.
+Elle peut aussi indiquer un objectif futur ou une attente, quelque chose d'incertain, mais toujours avec un verbe de direction.
+
+部屋へくる。=> Aller en direction d'une piece.
+勝ちへ向かう。=> Aller vers la victoire.
 
 ## から
 Indique une provenance pour le verbe.
