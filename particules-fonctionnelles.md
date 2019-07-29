@@ -29,6 +29,14 @@ Il possede differentes utilisations :
 - *Contact direct* : l'action est dirigee vers un endroit ou un objet (Accrocher un manteau **sur** le cintre)
 - *Moment precis* : année, mois, jour, heure precise (à, le, ...) (10 時に寝ます。=> Je me couche a 10h.)
 
+## から
+Indique une provenance pour le verbe.
+Se traduit en depuis, parceque, apres, puisque, ...
+Il va souvent avec まで qui signifie "jusqu'a".
+
+アリスは、アメリカからきた。=> Alice est venue d’Amérique.
+宿題を今日から明日までする。=> Je fais mes devoirs à partir d’aujourd’hui jusqu’à demain.
+
 ## も
 Absorbe les particules [ha], [ga] et [o].
 - Le nom qui precede subit la meme situation, se traduit par "aussi", "meme" ou "non plus" si la phrase est negative
