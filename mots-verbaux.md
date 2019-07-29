@@ -32,14 +32,13 @@ La forme familiere présente est le verbe a l'infinitif. Seule la négation se c
 さく　=> さかない
 買う 　=> 買わない
 
-### Résumé
+### Résumé et exceptions
 
-|          | Présent   | Négation |
-|----------|-----------|----------|
-| Poli     | -ます     | -ません  |
-| Familier | Infinitif | -ない    |
+|         	| Présent (p)    	| Négation (p)     	| Présent (f) 	| Négation (f)                	|
+|---------	|----------------	|------------------	|-------------	|-----------------------------	|
+| ichidan 	| る => -ます    	| る => -ません    	| infinitif   	| る => -ない                 	|
+| yodan   	| [u] => [i]ます 	| [u] => [i]ません 	| infinitif   	| [u] => [a]ない / う => わない 	|
 
-### Exceptions
 |      | Présent (p) | Négation (p) | Présent (f) | Négation (f) |
 |------|-------------|--------------|-------------|--------------|
 | する | します      | しません     | normal      | しない       |
