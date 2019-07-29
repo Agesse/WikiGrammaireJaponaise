@@ -3,8 +3,8 @@
 
 # Mots verbaux
 Il existe deux types de verbes :
-- yodan/godan, car leur derniere syllabe peut prendre 4 formes differentes
-- ichidan, car leur dernier kana est supprime pour faire les conjugaisons (termine toujours avec un son en [i] ou [e] + る)
+- **yodan/godan** : leur derniere syllabe peut prendre 4 formes différentes
+- **ichidan** : leur dernier kana est supprimé pour faire les conjugaisons (ils terminent toujours par un son en [i] ou [e] + る)
 
 A cela on note deux verbes d'exception :
 - する　=> します (faire)
