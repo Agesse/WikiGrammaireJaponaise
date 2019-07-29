@@ -18,6 +18,19 @@ Indique une relation entre deux noms :
 ## が
 Indique le sujet grammatical du verbe.
 
+## も
+Absorbe les particules [ha], [ga] et [o].
+- Le nom qui precede subit la meme situation, se traduit par "aussi", "meme" ou "non plus" si la phrase est negative
+
+## を
+**Attention** Se prononce [o].
+Indique que le mot qui precede est le COD du verbe.
+En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement (on se deplace dans le lieu).
+
+Exemple :
+魚を食べる => Manger un poisson.
+街を歩く => Marcher dans la ville.
+
 ## に
 Indique une cible pour le verbe.
 Contrairement au COD ou on fait quelque chose *a* l'objet, ici on fait quelque chose *vers* le mot associe, l'objectif.
@@ -45,15 +58,10 @@ Il va souvent avec まで qui signifie "jusqu'a".
 アリスは、アメリカからきた。=> Alice est venue d’Amérique.
 宿題を今日から明日までする。=> Je fais mes devoirs à partir d’aujourd’hui jusqu’à demain.
 
-## も
-Absorbe les particules [ha], [ga] et [o].
-- Le nom qui precede subit la meme situation, se traduit par "aussi", "meme" ou "non plus" si la phrase est negative
-
-## を
-**Attention** Se prononce [o].
-Indique que le mot qui precede est le COD du verbe.
-En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement (on se deplace dans le lieu).
-
-Exemple :
-魚を食べる => Manger un poisson.
-街を歩く => Marcher dans la ville.
+## で
+Indique le contexte, le moyen par lequel l'action se deroule.
+Il repond aux questions "Comment ?", "Par quel moyen ?".
+バスで帰る。 => Je rentre en bus. (Je rentre par le bus.)
+レストランで昼ご飯を食べた。=> J'ai mange mon repas du midi au restaurant. (J'ai mange par le moyen du restaurant.)
+何できた？=> Par quel moyen es-tu venu ?
+**Attention** Ne pas confondre 「何で」(na**ni**de => par quel moyen) et 「何で」(na**n**de => pourquoi), la reponse donnera le contexte.
