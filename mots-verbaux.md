@@ -52,8 +52,15 @@ La forme familiere présente est le verbe a l'infinitif. Seule la négation se c
 La forme familiere varie selon le groupe du verbe et son kana terminal. 
 La forme negative est cependant commune a tous.
 
-**Verbes ichidan** : Remplacement du dernier kana る par -た.
-**Verbes yodan** : Selon le dernier kana, remplacement par la terminaison correspondante
-**Negation** : Mettre le verbe dans la forme a-temporelle familiere negative, et remplacer le「い」par -なかった.
+**Verbes ichidan** : Remplacer le dernier kana る par -た.
+**Verbes yodan** : Selon le dernier kana, remplacer par la terminaison correspondante
+**Negation** : Mettre le verbe dans la forme a-temporelle familiere negative, et remplacer -ない par -なかった.
+
+| Kana       	| Terminaison 	|
+|------------	|-------------	|
+| す         	| した        	|
+| く / ぐ    	| いた / いだ 	|
+| む, ぶ, ぬ 	| んだ        	|
+| る, う, つ 	| った        	|
 
 
