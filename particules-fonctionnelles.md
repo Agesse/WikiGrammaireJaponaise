@@ -28,6 +28,8 @@ Absorbe les particules [ha], [ga] et [o].
 ## を
 **Attention** Se prononce [o].
 Indique que le mot qui precede est le COD du verbe.
+En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement.
 
 Exemple :
-魚を食べる => Manger un poisson / Je mange un poisson / ...
+魚を食べる => Manger un poisson.
+街を歩く => Marcher dans la ville.
