@@ -2,13 +2,20 @@
 <!-- SUBTITLE: Equivalents des verbes -->
 
 # Mots verbaux
-Il existe deux types de verbes :
+Il existe deux types de conjugaison de verbes :
 - **ichidan** : leur dernier kana est supprimé pour faire les conjugaisons (ils terminent toujours par un son en [i] ou [e] + る)
 - **yodan/godan** : leur derniere syllabe peut prendre 4 formes différentes
 
 A cela on note deux verbes exception :
 - する　=> します (faire)
 - くる　=> きます (venir)
+
+Pour ce qui est du sens des verbes, ils sont aussi separes en deux groupes :
+- **transitifs** : action realisee par un agent actif (mettre, bouger, fermer, effacer, ...)
+- **intransitifs** : quelque chose se produit, sans agent directe (etre mis, etre bouge, etre ferme, ...)
+Cela ne change pas leur conjugaison, mais ils possedent en general le meme kanji en radical, il faut donc faire attention de quel verbe est utilise.
+出す => sortir / 出る => partir
+消す => effacer / 消える => disparaitre
 
 ## Forme a-temporelle conclusive
 Cette forme termine la phrase et est donc suivie d'un 「。」.
