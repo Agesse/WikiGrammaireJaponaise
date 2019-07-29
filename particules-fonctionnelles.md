@@ -19,7 +19,15 @@ Indique une relation entre deux noms :
 Indique le sujet grammatical du verbe.
 
 ## に
-- Localisation : adverbe de lieu + に + ある (*exemple* 木のした**に**あかい花が**あります**。=> Sous l'arbre, il y a des fleurs rouges.)
+Indique une cible pour le verbe.
+Contrairement au COD ou on fait quelque chose *a* l'objet, ici on fait quelque chose *vers* le mot associe.
+
+Il possede differentes utilisations :
+- *Localisation statique* :  pour situer quelque chose avec un verbe statique (etre, habiter, travailler dans, ...)
+- *Localisation par rapport a autre chose* : adverbe de lieu + に + ある (*exemple* 木のした**に**あかい花が**あります**。=> Sous l'arbre, il y a des fleurs rouges.)
+- *Mouvement vers un endroit* : 部屋にくる => Aller dans une piece.
+- *Contact direct* : l'action est dirigee vers un endroit ou un objet (Accrocher un manteau **sur** le cintre)
+- *Moment precis* : année, mois, jour, heure precise (à, le, ...) (10 時に寝ます。=> Je me couche a 10h.)
 
 ## も
 Absorbe les particules [ha], [ga] et [o].
@@ -28,7 +36,7 @@ Absorbe les particules [ha], [ga] et [o].
 ## を
 **Attention** Se prononce [o].
 Indique que le mot qui precede est le COD du verbe.
-En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement.
+En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement (on se deplace dans le lieu).
 
 Exemple :
 魚を食べる => Manger un poisson.
