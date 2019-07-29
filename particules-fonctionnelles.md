@@ -3,6 +3,7 @@
 
 # Liste des particules fonctionnelles
 ## は
+**Attention** Se prononce [wa].
 Le mot qui precede est le theme de la phrase (pas le sujet !)
 Peut se traduire litteralement par "en ce qui concerne + *nom*"
 
@@ -23,3 +24,10 @@ Indique le sujet grammatical du verbe.
 ## も
 Absorbe les particules [ha], [ga] et [o].
 - Le nom qui precede subit la meme situation, se traduit par "aussi", "meme" ou "non plus" si la phrase est negative
+
+## を
+**Attention** Se prononce [o].
+Indique que le mot qui precede est le COD du verbe.
+
+Exemple :
+魚を食べる => Manger un poisson / Je mange un poisson / ...
