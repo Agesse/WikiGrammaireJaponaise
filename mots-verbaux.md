@@ -15,22 +15,24 @@ Cette forme termine la phrase et est donc suivie d'un 「。」.
 Le temps de la phrase n'est pas clair et depend du contexte.
 
 ### Forme polie
-**Verbes ichidan**: remplacer le dernier kana る par -ますou -ません (négation).
+**Verbes ichidan** : remplacer le dernier kana る par -ますou -ません (négation).
 いる　=> います
 
 **Verbes yodan** : transformer le dernier kana (finissant en [u]) en [i], puis ajouter -ます ou -ません (négation).
 さく　=> さきます
 
 ### Forme familiere
-La forme familiere presente est le verbe a l'infinitif. Seul la negation se conjugue.
+La forme familiere présente est le verbe a l'infinitif. Seule la négation se conjugue.
 
-Pour les verbes *yodan*, il suffit de prendre le dernier kana (finissant en [u]) et de le transformer en [a], puis on ajoute -ない.
-**Attention**, les syllabes 「う」deviennent「わ」et non pas「あ」.
+**Verbes ichidan** : remplacer le dernier kana る par -ない.
+食べる　=> 食べない
+
+**Verbes yodan** : transformer le dernier kana (finissant en [u]) en [a], puis ajouter -ない.
+*Attention*, les kana「う」deviennent「わ」et non pas「あ」.
 さく　=> さかない
 買う 　=> 買わない
 
-Pour les verbes *ichidan*, on supprime le dernier kana る, puis on ajoute -ない.
-食べる　=> 食べない
+### Résumé
 
 |          | Présent   | Négation |
 |----------|-----------|----------|
