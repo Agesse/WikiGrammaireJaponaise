@@ -63,4 +63,9 @@ La forme negative est cependant commune a tous.
 | む, ぶ, ぬ 	| んだ        	|
 | る, う, つ 	| った        	|
 
+|      	| Passe  	|
+|------	|--------	|
+| する 	| した   	|
+| くる 	| きた   	|
+| 行く 	| 行った 	|
 
