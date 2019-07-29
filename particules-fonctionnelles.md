@@ -25,6 +25,7 @@ Absorbe les particules [ha], [ga] et [o].
 ## を
 **Attention** Se prononce [o].
 Indique que le mot qui precede est le COD du verbe.
+Elle ne peut pas suivre ou etre suivie d'une autre particule.
 En japonais, le COD peut aussi etre une localisation pour un verbe de deplacement (on se deplace dans le lieu).
 
 Exemple :
