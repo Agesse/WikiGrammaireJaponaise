@@ -44,3 +44,16 @@ Pour les verbes *ichidan*, on supprime le dernier kana る, puis on ajoute -な�
 | する | します      | しません     | normal      | しない       |
 | くる | きます      | きません     | normal      | こない       |
 | ある | normal      | normal       | normal      | ない         |
+
+
+## Forme passee conclusive
+
+### Forme familiere
+La forme familiere varie selon le groupe du verbe et son kana terminal. 
+La forme negative est cependant commune a tous.
+
+**Verbes *ichidan* ** : Remplacement du dernier kana る par -た.
+**Verbes *yodan* ** : Selon le dernier kana, remplacement par la terminaison correspondante
+**Negation** : Mettre le verbe dans la forme a-temporelle familiere negative, et remplacer le「い」par -なかった.
+
+
